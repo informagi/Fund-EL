@@ -1,9 +1,15 @@
-This repository contains the code for the paper "Find the Funding: Entity Linking with Incomplete Funding Knowledge Bases".
-Authors:
-* Gizem Aydin, Radboud University
-* Seyed Amin Tabatabaei, Elsevier B.V.
-* Georgios Tsatsaronis, Elsevier B.V.
-* Faegheh Hasibi, Radboud University
+This repository contains resources developed within the following paper:
+
+	Gizem Aydin, Seyed Amin Tabatabaei, Georgios Tsatsaronis, and Faegheh Hasibi. “Find the Funding: Entity Linking with Incomplete Funding Knowledge Bases”,
+	In proceedings of ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR ’16), Newark, DE, USA, Sep 2016.
+
+You can check the [paper](https://aclanthology.org/2022.coling-1.168/) for detailed information.
+
+## Download the Datasets
+
+The EDFund and ELFund datasets can be downloaded from [here](https://elsevier.digitalcommonsdata.com/datasets/vr8c9n2tkn/2).
+
+*The datasets are created by Elsevier, thanks to the efforts by Zubair Afzal, Johan Boots, Heber Mc Mahon, Nishant Mintri, Seyedamin Tabatabaei, and George Tsatsaronis.*
 
 ## Domain Adaptation of BERT, $BERT_{TAPT}$
 Run the notebook `Domain Adaptation of BERT/BERT_TAPT.ipynb`. 

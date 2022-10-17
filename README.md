@@ -71,7 +71,8 @@ In the first cell of each notebook, you may find the instructions on how to prov
             * Output: Prints Micro and Macro averaged Precision, Recall and F1 scores. Returns Micro averaged ones.
 
 ## Libraries and Versions
-Python==3.7.9
+
+* Python==3.7.9
 * [annoy](https://github.com/spotify/annoy)==1.17.0
 * [datasets](https://pypi.org/project/datasets/)==1.4.1
 * [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy)==0.18.0
